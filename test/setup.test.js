@@ -1,8 +1,8 @@
 import mongoose from "mongoose"
-import CONFIG from "../src/config/config.js"
-import userModel from "../src/models/schemas/Users.model.js"
-import productsModel from "../src/models/schemas/products.js"
-import cartsModel from "../src/models/schemas/carts.js"
+import CONFIG from "../source/config/config.js"
+import userModel from "../source/models/schemas/Users.model.js"
+import productsModel from "../source/models/schemas/products.js"
+import cartsModel from "../source/models/schemas/carts.js"
 
 const {MONGO_URL} = CONFIG
 
