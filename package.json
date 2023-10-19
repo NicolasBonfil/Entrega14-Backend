@@ -8,7 +8,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha test/routes/products.router.test.js"
+    "test": "mocha test/routes/sessions.router.test.js"
   },
   "keywords": [],
   "author": "",
